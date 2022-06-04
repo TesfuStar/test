@@ -2,7 +2,7 @@
   "posts": [
     { "id": 1, "firstName": "abebe", "lastName": "kebede" , "gender": "male" },
     { "id": 2, "firstName": "mekdes", "lastName": "worku" , "gender": "female" },
-    { "id": 3, "firstName": "eyob", "lastName": "maru" , "gender": "male" }
+    { "id": 3, "firstName": "eyob", "lastName": "daniel" , "gender": "male" }
   ]
 
 
